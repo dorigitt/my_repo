@@ -1,0 +1,28 @@
+
+## About me
+
+Hi, My name is Qazaq dariga, i am 17. I love cooking and long night walks. I am crazy about sitcoms, I have watched bunch of especially my favorite is "The Office" TV series. I have always been in frontend developing, because it is really interesting how the web-pages beeing made.
+
+# CV
+## General information
+ **Name**:Qazaq Dariga 
+
+**Date of birth**:10.11.2005
+
+ **email address:** darigaqazaq@gmail.com
+
+ **Phone number:** 8-771-281-89-32
+
+ ## Educational background
+
++ gratuated from JOO High School
++ cuurently studying at engeneering faculty in SDU Univeersity
+
+## Personal qualities
++ Responsibility
++ Team work abilities
++ Creativity
+
+
+
+

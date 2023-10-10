@@ -23,6 +23,11 @@ Hi, My name is Qazaq dariga, i am 17. I love cooking and long night walks. I am 
 + Team work abilities
 + Creativity
 
+## English level
++ B2(Upper-Intermediate)
+My level is enough to understand speech and respond clearly.Unfortunately, right now i do not have any certificates of english level.
 
+## Coding experiance
++ This lessons are my first real experience in coding.Before that a was coding on html,css,javascript for fun.
 
 
